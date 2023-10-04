@@ -1,2 +1,2 @@
-# 2.9
-Start of work in Github for Java
+# Figures
+Was just having fun writing some figures in Java
